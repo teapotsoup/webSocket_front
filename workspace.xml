@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="876d6acd-35fc-4b59-a47a-1eb89ccba8b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Func/ProjectTypeConverter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Func/StepTypeConverter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Func/TaskTypeConverter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/BsSelectingModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/BsStepSelectingModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/TaskAddOrEditModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/TaskLogActivationModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_practice/.eslintrc.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_practice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_practice/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_practice/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_practice/jest.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_practice/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_practice/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_practice/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_practice/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_practice/src/Hello.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_practice/src/Hello.test.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_practice/src/fn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_practice/src/fn.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_practice/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_practice/src/mockFn.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_practice/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_practice/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_react_practice/.eslintrc.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_react_practice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_react_practice/babel.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_react_practice/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_react_practice/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_react_practice/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_react_practice/src/js/fn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_react_practice/src/js/fn.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_react_practice/src/js/mockFn.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_react_practice/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_react_practice/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_react_practice/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest_react_practice/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobkae-recoil-example-completed/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobkae-recoil-example-completed/.idea/jobkae-recoil-example-completed.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobkae-recoil-example-completed/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobkae-recoil-example-completed/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobkae-recoil-example-completed/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_react/pure/src/SimpleSlider.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seed-ui/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trophy-quiz-mobile/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trophy-quiz-mobile/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trophy-quiz-mobile/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trophy-quiz-mobile/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trophy-quiz-mobile/.idea/trophy-quiz-mobile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trophy-quiz-mobile/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/assets/R2wZustand.js" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/assets/R2wZustand.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/CellWorkLabelInfo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/BsLabelInfo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/Column.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/Column.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/ProjectRegisterPageStep.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/ProjectRegisterPageStep.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/ProjectRegisterPageTopInputList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/ProjectRegisterPageTopInputList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/ProjectStepPageBottomInfos.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/ProjectStepPageBottomInfos.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/ProjectStepPageStep.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/ProjectStepPageStep.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/ProjectStepPageTopInfos.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/ProjectStepPageTopInfos.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/SimpleSlider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/SimpleSlider.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/StatusesBar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/StatusesBar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/StepSmallBox.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/StepSmallBox.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/StepTypeRenderer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/WorkGroupSlider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/BsSlider.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Comp/WorkTypeRenderer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Constant/ProjectRegisterConstant.js" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Constant/ProjectRegisterConstant.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/DbOrTableSelectModal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/DbOrTableSelectModal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/DbSelectModal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/DbSelectModal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/ProjectActivationOptionModal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/ProjectActivationOptionModal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/ProjectAddModal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/ProjectAddModal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/ProjectDeleteModal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/ProjectDeleteModal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/ProjectSetBaseDateModal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/ProjectSetBaseDateModal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/ProjectSettingModal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/ProjectSettingModal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/ProjectStepLogModal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/ProjectStepLogModal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/ProjectStepOptionModal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/ProjectStepOptionModal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/ProjectWorkGroupSelectingModal.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/StepActivationOptionModal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/StepActivationOptionModal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/UserStepManageModal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/UserStepManageModal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/WorkAddOrEditModal.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/WorkGroupStepSelectingModal.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/Modal/WorkLogActivationModal.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/ProjectApi.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/ProjectCurrent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/ProjectCurrent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/ProjectList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/ProjectList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/ProjectRegister.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/ProjectRegister.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/ProjectSideTab.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/ProjectSideTab.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/ProjectStep.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/ProjectStep.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/ProjectStepLog.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/project/ProjectStepLog.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/projectGroup/Modal/ProjectGroupDeleteModal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/projectGroup/Modal/ProjectGroupDeleteModal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/projectGroup/ProjectGroupApi.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/projectGroup/ProjectGroupApi.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/projectGroup/ProjectGroupDetails.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/projectGroup/ProjectGroupDetails.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/projectGroup/ProjectGroupList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/projectGroup/ProjectGroupList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/projectGroup/ProjectGroupRegister.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/projectGroup/ProjectGroupRegister.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/projectGroup/ProjectGroupSideTab.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/projectGroup/ProjectGroupSideTab.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/transEndExtract/TransEndAddWork.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/CLM30_STEP_PROJECT/src/page/work/transEndExtract/TransEndAddWork.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobkae-recoil-example-completed/src/recoil/CartAtom.js" beforeDir="false" afterPath="$PROJECT_DIR$/jobkae-recoil-example-completed/src/recoil/CartAtom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextJs_tutorial_2023/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/nextJs_tutorial_2023/src/app/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/myclm/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/myclm/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/myclm/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/myclm/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/myclm/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/myclm/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/myclm/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/myclm/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/myclm/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/myclm/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/myclm/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/myclm/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/myclm/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/myclm/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/myclm/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/myclm/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/myclm/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/myclm/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure1/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure1/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure1/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure1/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure1/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure1/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure1/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure1/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure1/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure1/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure1/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure1/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure1/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure1/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure1/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure1/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure1/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure1/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure2/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure2/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure2/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure2/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure2/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure2/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure2/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure2/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure2/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure2/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure2/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure2/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure2/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure2/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure2/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure2/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure2/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure2/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure3/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure3/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure3/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure3/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure3/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure3/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure3/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure3/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure3/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure3/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure3/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure3/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure3/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure3/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure3/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure3/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pure_react/pure3/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure3/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure3/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pure_react/pure3/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderingpractice/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/renderingpractice/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderingpractice/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/renderingpractice/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderingpractice/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderingpractice/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/renderingpractice/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderingpractice/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderingpractice/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderingpractice/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderingpractice/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderingpractice/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderingpractice/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderingpractice/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderingpractice/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderingpractice/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/renderingpractice/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderingpractice/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderingpractice/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderingpractice/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trophy-quiz-mobile/.husky/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/trophy-quiz-mobile/.husky/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CLM30_STEP_PROJECT" />
+  </component>
+  <component name="ProjectId" id="2XBqbhLkMlVg2BmLCTBB13sibJM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/realt",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="876d6acd-35fc-4b59-a47a-1eb89ccba8b1" name="Changes" comment="" />
+      <created>1698112893181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698112893181</updated>
+      <workItem from="1698112894257" duration="504000" />
+      <workItem from="1698122890164" duration="45000" />
+      <workItem from="1698123070648" duration="216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

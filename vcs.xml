@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CLM30_STEP_PROJECT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CLMREPORT_front" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ReactWith_TypescriptExpress-main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jest_practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jest_react_practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jobkae-recoil-example-completed" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nextJs_tutorial_2023" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nextjs_yardsale" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pure_react/myclm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pure_react/pure" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pure_react/pure1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pure_react/pure2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pure_react/pure3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/renderingpractice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seed-ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sundaes-on-demand" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trophy-quiz-mobile" vcs="Git" />
+  </component>
+</project>
