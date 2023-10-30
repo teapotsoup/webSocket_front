@@ -2,7 +2,7 @@ import { useCallback, useEffect, useRef, useState } from 'react';
 import './App.css';
 import MessageBox from './message/ChatBox.jsx';
 import styled from '@emotion/styled';
-
+import { ChatWrap, Chatting, ChatSendWrap } from '../style/style';
 function App() {
   const ws = useRef(null);
 
@@ -12,19 +12,28 @@ function App() {
   const [socketData, setSocketData] = useState();
 
   useEffect(() => {
-    console.log(socketData);
+    // console.log(socketData);
     if (socketData) {
       setChatList(prevState => [...prevState, socketData]);
     }
   }, [socketData]);
 
-  useEffect(() => webSocketLogin(), []);
+  useEffect(() => {
+    webSocketLogin(); // 켰을 때 한번만
+  }, []);
 
   const webSocketLogin = useCallback(() => {
+    console.log('!');
     ws.current = new WebSocket('ws://localhost:8080/socket/chat');
-
+    // websocket은 웹 API에서 지원해주기 때문에 별도의 써드파티 API나 라이브러리를 가져올 필요 없음
+    // console.log('ws.current : ', ws.current);
+    // {onclose,onerror,onmessage,url....}
     ws.current.onmessage = message => {
+      // 백엔드에서 데이터를 보내주고 해당 부분만 실행
+      // webSocketLogin 함수 전체가 실행 되는 것이 아니다.
+      console.log(' message : ', message);
       const dataSet = JSON.parse(message.data);
+      // {date: "",message:"",userId:""}
       setSocketData(dataSet);
     };
   }, []);
@@ -37,6 +46,7 @@ function App() {
     }
 
     if (ws.current === null) {
+      // 2. 발동하게 하는 법
       alert('웹소켓을 연결해 주세요.');
       return;
     }
@@ -84,61 +94,5 @@ function App() {
     </ChatWrap>
   );
 }
-
-const ChatWrap = styled.div`
-  width: 50%;
-  min-width: 500px;
-  margin: 0 auto;
-  background-color: #535252;
-
-  & input {
-    width: 100%;
-    height: 24px;
-    border: 1px solid #ebebeb;
-  }
-`;
-
-const Chatting = styled.div`
-  width: 100%;
-  height: 640px;
-  overflow-y: scroll;
-  display: flex;
-  flex-direction: column;
-  border: 1px solid #ebebeb;
-  padding: 5px;
-  box-sizing: border-box;
-  &::-webkit-scrollbar {
-    width: 6px;
-  }
-
-  &::-webkit-scrollbar-track {
-    border-radius: 10px;
-    background-color: #eeeeee;
-  }
-
-  &::-webkit-scrollbar-thumb {
-    border-radius: 10px;
-    background-color: #d3d3d3;
-  }
-`;
-
-const ChatSendWrap = styled.div`
-  width: 100%;
-  display: flex;
-  border: 1px solid #ebebeb;
-  & button {
-    width: 60px;
-    background-color: white;
-    border: none;
-  }
-
-  & textarea {
-    width: 100%;
-    height: 60px;
-    resize: none;
-    border: none;
-    border-right: 1px solid #ebebeb;
-  }
-`;
 
 export default App;
